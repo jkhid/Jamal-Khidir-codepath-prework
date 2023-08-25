@@ -22,23 +22,24 @@ Here's a walkthrough of implemented user stories:
 
 ## App Brainstorming (Step 4)
 - 18 Birides 
-    - Gives you the ability to preview any golf course you want by taking advantage of some sort of maps API
-    - Uses gps to show your distance from the golf hole, eliminating the need to buy an expensive golf range finder
+    - Gives you the ability to preview any golf course you want by taking advantage of some maps API
+    - Uses GPS to show your distance from the golf hole, eliminating the need to buy an expensive golf range finder
     - Serves as a record for all golf rounds you played, calculating your handicap automatically for you (something you had to do manually).
     
 - Reddit
     - The way the app displays posts
-    - The ability to see a summed up count of upvotes and downvotes. Post votes is usually updated automatically by the second.
+    - The ability to see a summed-up count of upvotes and downvotes. Post votes are usually updated automatically by the second.
 
 - Starbucks
-    - All the drinks on the app are customizable, giving you control on what goes into your drink.
-    - I enjoy the ability to order items on the app and being able to pick it up, skipping the line. 
+    - All the drinks on the app are customizable, giving you control over what goes into your drink.
+    - I enjoy the ability to order items on the app and being able to pick them up, skipping the line. 
     - The app provides a map that shows the many Starbucks that are located around you.
-    
+
+Something that I've always to develop is an app that allows people to connect with other people in their area to play certain sports. Sometimes when I drive around I see people playing sports, such as basketball, golf, or tennis, by themselves. It would be nice to have an app that creates relationships and eliminates the feeling of having no one to play with. The main features I've thought about are similar to some social media apps. Being able to send friend requests and create posts about wanting to play. Another thing that I've thought about is implementing embedded hardware you scan at basketball courts or tennis courts in order to see in real-time how many people are at these courts. 
     
 ## Notes
 
-The main challenges I had with creating this application was navigating through Xcode and becoming familiar with the UI. I have never programmed in Swift before, so I had to do a little bit of research to implement the text color change as well. 
+The main challenges I had with creating this application was navigating through Xcode and becoming familiar with the UI. I have never programmed using Swift before, so I had to do a little bit of research to implement the text color change as well. 
 
 ## License
 
